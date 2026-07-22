@@ -18,7 +18,7 @@ Standard astronomy apps on the stores are cluttered with star maps, heavy 3D mod
 ## 📸 Screenshots
 
 **73 de IK1APW** 🌕📡
-<img width="1080" height="2400" alt="Foto 1" src="https://github.com/user-attachments/assets/8e1c0215-c1e2-4c13-97e9-edd548b7a5f4" />
+<img width="540" height="1200" alt="Foto 1" src="https://github.com/user-attachments/assets/8e1c0215-c1e2-4c13-97e9-edd548b7a5f4" />
 
 ## 🛠️ Tech Stack
 The app was developed entirely in **Kotlin** using the latest Android development best practices:
@@ -26,13 +26,13 @@ The app was developed entirely in **Kotlin** using the latest Android developmen
 *   **Architecture:** MVVM (Model-View-ViewModel) utilizing `StateFlow` and `Coroutines` for smooth and asynchronous updates.
 *   **Astronomical Engine:** [commons-suncalc](https://shredzone.org/maven/commons-suncalc/) by Richard "shred" Z. for high-precision ephemeris calculations.
 *   **GPS:** Google Play Services Location API (`FusedLocationProviderClient`).
-**73 de IK1APW** 🌕📡<img width="1080" height="2400" alt="Foto 1" src="https://github.com/user-attachments/assets/8e1c0215-c1e2-4c13-97e9-edd548b7a5f4" />
+**73 de IK1APW** 🌕📡
+   
 
 ## 🚀 How to Install
-1. Go to the [Releases](https://github.com/ik1apw/MoonToday/releases) section of this repository.
-2. Download the `MoonToday_v1.apk` file directly to your Android smartphone.
-3. Open the file and, if prompted, allow installation from "Unknown sources".
-4. Enjoy the data and aim your antennas!
+1. Download the `Moon-Today v1.apk` file directly to your Android smartphone.
+2. Open the file and, if prompted, allow installation from "Unknown sources".
+3. Enjoy the data and aim your antennas!
 
 ## 📜 License and Acknowledgments
 Open-source project. Thanks to the whole EME "lunatic" community for the inspiration. We hope this app brings you excellent lunar bounces and strong signals!
@@ -56,9 +56,6 @@ Le classiche app astronomiche sugli store sono piene di mappe stellari, modelli 
 *   **Orari Precisi:** Calcolo di Moonrise (Sorgere), Transit (Transito/Picco) e Moonset (Tramonto).
 *   **Interfaccia "Da Campo":** Sviluppata con UI moderna ad alto contrasto, pensata per essere letta facilmente anche all'aperto o mentre si hanno le mani sui controlli del rotore.
 
-## 📸 Screenshot
-<img width="1080" height="2400" alt="Foto 1" src="https://github.com/user-attachments/assets/8e1c0215-c1e2-4c13-97e9-edd548b7a5f4" />
-
 
 ## 🛠️ Tecnologie Utilizzate
 L'app è stata sviluppata interamente in **Kotlin** utilizzando le migliori e più recenti pratiche di sviluppo Android:
@@ -68,10 +65,9 @@ L'app è stata sviluppata interamente in **Kotlin** utilizzando le migliori e pi
 *   **GPS:** Google Play Services Location API (`FusedLocationProviderClient`).
 
 ## 🚀 Come Installare
-1. Vai nella sezione [Releases](https://github.com/ik1apw/MoonToday/releases) di questo repository.
-2. Scarica il file `MoonToday_v1.apk` direttamente sul tuo smartphone Android.
-3. Apri il file e, se richiesto, consenti l'installazione da "Origini sconosciute".
-4. Goditi i dati e punta le antenne!
+1. Scarica il file `Moon-Today v1.apk` direttamente sul tuo smartphone Android.
+2. Apri il file e, se richiesto, consenti l'installazione da "Origini sconosciute".
+3. Goditi i dati e punta le antenne!
 
 ## 📜 Licenza e Ringraziamenti
 Progetto open-source. Un ringraziamento a tutta la comunità dei "lunatici" EME per l'ispirazione. Speriamo che quest'app vi porti ottimi rimbalzi lunari e segnali forti!
