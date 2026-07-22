@@ -18,7 +18,8 @@ Standard astronomy apps on the stores are cluttered with star maps, heavy 3D mod
 ## 📸 Screenshots
 
 **73 de IK1APW** 🌕📡
-<img width="540" height="1200" alt="Foto 1" src="https://github.com/user-attachments/assets/8e1c0215-c1e2-4c13-97e9-edd548b7a5f4" />
+
+<img width="400" height="800" alt="Foto 1" src="https://github.com/user-attachments/assets/8e1c0215-c1e2-4c13-97e9-edd548b7a5f4" />
 
 ## 🛠️ Tech Stack
 The app was developed entirely in **Kotlin** using the latest Android development best practices:
